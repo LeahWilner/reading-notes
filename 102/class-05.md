@@ -7,3 +7,5 @@ Syntax:
         background color: purple;
         text-align: right;
     }
+
+HTML is structure, CSS is how it looks
